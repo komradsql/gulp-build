@@ -7,4 +7,4 @@ My gulp4 build for work. Here are:
 **Concat:** for concatenate files  
 **Rename:** add '.min/-min' to .css-files  
   
-  ![Иллюстрация к проекту](https://github.com/kormadsql/gulp-build/gulp4-pic.png)
+  ![Иллюстрация к проекту](https://github.com/komradsql/gulp-build/blob/master/gulp4-pic.png)
